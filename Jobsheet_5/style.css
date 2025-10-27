@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+table {
+  width: 100%;
+  max-width: 500px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #cccccc;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
